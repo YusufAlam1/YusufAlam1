@@ -19,6 +19,7 @@ I'm a Computer Science student @ **McMaster University**
 
 Feel free to reach out or follow my work:
 
-- 📧 Email: [0yusufalam@email.com](mailto:0yusufalam@email.com)  
+- 📧 Email: [yusuf.alam.dev@email.com](mailto:yusuf.alam.dev@email.com)  
 - 🔗 LinkedIn: [linkedin.com/in/yusuf-m-alam](https://www.linkedin.com/in/yusuf-m-alam) 
+
 

@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Yusuf Alam
 
-I'm a Computer Science student @ **McMaster University**
+I'm a Computer Science student @ **McMaster University**. Currently I'm a...
 
-- 📊 **Currently working on research** focused on **athlete injury prediction** using machine learning and NBA player data  
-- 💸 **Finance Coordinator** at McMaster's **Google Developer Group (GDG)**  
+- 🦁 **Data Scientist & Engineer** @ **RBC** on the Marketing Mix Modelling Team  
+- 📊 **Research Assistant** for **McMaster** predicting NBA athlete injuries. [Repo](https://github.com/YusufAlam1/BALL) 
+- 💸 **Finance Coordinator** for McMaster's **Google Developer Group** (GDG)  
 
 ## 🎯 Interests
 
-- 🧠 **Data Science**
+- 🔮 **Data Science**
 - 🏗️ **Data Engineering**
-- 📈 **Analytics & Visualization**
-- 🤖 **Machine Learning**
-- ⚽ **Sports Analytics**
+- 📈 **Data Analytics & Visualization**
+- 🧠 **Machine Learning**
+- 🏀 **Sports Analytics**
 
 ---
 
@@ -21,6 +22,3 @@ Feel free to reach out or follow my work:
 
 - 📧 Email: [yusuf.alam.dev@gmail.com](mailto:yusuf.alam.dev@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/yusuf-m-alam](https://www.linkedin.com/in/yusuf-m-alam) 
-
-
-
